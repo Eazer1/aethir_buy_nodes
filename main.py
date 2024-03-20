@@ -152,6 +152,7 @@ def start(prkey, tier, amount):
         while True:
             if time.time() > 1710928795:
                 break
+            else: time.sleep(1)
 
         mint_node(prkey, tier, amount)
 
