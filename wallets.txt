@@ -1,0 +1,4 @@
+prkey1;tier;amount
+prkey2;tier;amount
+prkey3;tier;amount
+...
